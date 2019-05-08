@@ -1,0 +1,13 @@
+.row{
+width:100%;
+padding-left:15px;
+padding-right:15px;
+}
+.col-12{
+width:100%;
+padding-left:15px;
+padding-right:15px;
+}
+.page-header{
+text-align: center;
+}

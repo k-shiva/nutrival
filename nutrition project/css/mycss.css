@@ -1,0 +1,18 @@
+.mycolor{
+background-color: #6f42c1;
+color: white;
+}
+.mycolor:hover{
+    background-color: black;
+    color: white;
+    }
+.mybg{
+    color: beige;
+    background-image: url("../images/jumbotron.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mybtnbg{
+background-image: url('../images/button.svg');
+background-repeat: no-repeat;
+}

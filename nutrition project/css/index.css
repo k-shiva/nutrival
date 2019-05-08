@@ -1,0 +1,70 @@
+.container-menu{
+display: none;
+    width: 100%;
+background-color: black;
+opacity: 0.4;
+position: absolute;
+z-index:1;
+height:100vh;
+}
+.container-menu .col-3{
+width:25%;
+background-color: white;
+height: 100vh;
+}
+.container{
+width:100%;
+position: absolute;
+z-index:0;
+height:100vh;
+}
+
+.col-12,.row{
+width:100%;
+padding:10px 0;
+}
+.banner{
+background-image:url('../images/banner.jpg');
+font-size:2rem;
+background-position-x: right;
+background-repeat:no-repeat;
+padding:40px 0 40px 20px;
+background-size:contain;
+border-bottom: 1px solid #ddd;
+}
+.banner .text-green{
+color: #88c058;
+}
+.banner .text-grey{
+color:#8e8e8e;
+}
+.text-sub{
+font-size:1.2rem;
+}
+
+.banner .btn-orange{
+background-image: url("../images/images\ \(1\).jpeg");
+background-repeat: no-repeat;
+background-size: contain;
+border: none;
+background-color:#fb861f;
+color: white;
+font-size: 1.1rem;
+padding: 20px 10px 20px 80px;
+cursor: pointer;
+}
+.card-img-top {
+width: 100%;
+height: 40vh;
+object-fit: cover;
+}
+.container1{
+    width: 100%;
+  
+}
+
+.container1 .col-12 .col-3{
+    display: inline-block;
+    background-color:#ddd;
+    width: 25%;
+}
